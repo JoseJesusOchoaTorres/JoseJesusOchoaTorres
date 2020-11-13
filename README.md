@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/bxvpdlInFlU7rAH1IU/giphy.gif" alt="JoseJesus.dev">
+<img align="left" src="https://orhun.dev/img/crow.png">
 
 <h3>My latest posts</h3>
 
