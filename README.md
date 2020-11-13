@@ -1,9 +1,13 @@
 <img align="left" src="https://orhun.dev/img/crow.png">
 
+-----
+
 <h3>My latest posts</h3>
 
 - [Grid systems (Talk)](https://josejesus.dev/grid-systems-(talk))
 - [Crea tu propio CSS Grid system)](https://josejesus.dev/crea-tu-propio-css-grid-system)
+
+-----
 
 <h3>Where to find me</h3>
 
