@@ -4,7 +4,8 @@
 
 <h3>My latest posts</h3>
 
-- [Grid systems (Talk)](https://josejesus.dev/grid-systems-(talk))
+- [Grid systems (Talk)](https://josejesus.dev/coderhouse-(talk):-grid-systems-and-more)
+- [Functional CSS](https://josejesus.dev/functional-css)
 - [Crea tu propio CSS Grid system)](https://josejesus.dev/crea-tu-propio-css-grid-system)
 
 -----
