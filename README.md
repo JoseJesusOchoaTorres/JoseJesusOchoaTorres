@@ -6,7 +6,7 @@
 
 - [Grid systems (Talk)](https://josejesus.dev/coderhouse-(talk):-grid-systems-and-more)
 - [Functional CSS](https://josejesus.dev/functional-css)
-- [Crea tu propio CSS Grid system)](https://josejesus.dev/crea-tu-propio-css-grid-system)
+- [Crea tu propio CSS Grid system](https://josejesus.dev/crea-tu-propio-css-grid-system)
 
 -----
 
